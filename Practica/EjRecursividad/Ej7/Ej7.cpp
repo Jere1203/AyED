@@ -1,0 +1,1 @@
+/*Dado un número entero positivo imprimir su imagen especular (ej: de 123 su imagen es 321)*/
